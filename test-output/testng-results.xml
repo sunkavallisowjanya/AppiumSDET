@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="6" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-26T11:36:52 IST" name="Suite" finished-at="2020-09-26T11:39:45 IST" duration-ms="172565">
+    <groups>
+    </groups>
+    <test started-at="2020-09-26T11:36:52 IST" name="Test" finished-at="2020-09-26T11:39:45 IST" duration-ms="172565">
+      <class name="activities.webapp">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:activities.webapp@c333c60]" started-at="2020-09-26T11:37:49 IST" name="beforeMethod" finished-at="2020-09-26T11:38:01 IST" duration-ms="12112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="PopUpLoginSimpleForm()[pri:0, instance:activities.webapp@c333c60]" started-at="2020-09-26T11:38:01 IST" name="PopUpLoginSimpleForm" finished-at="2020-09-26T11:38:31 IST" duration-ms="29593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PopUpLoginSimpleForm -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:activities.webapp@c333c60]" started-at="2020-09-26T11:38:31 IST" name="afterMethod" finished-at="2020-09-26T11:38:31 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:activities.webapp@c333c60]" started-at="2020-09-26T11:38:31 IST" name="beforeMethod" finished-at="2020-09-26T11:38:43 IST" duration-ms="11881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginpage()[pri:0, instance:activities.webapp@c333c60]" started-at="2020-09-26T11:38:43 IST" name="loginpage" finished-at="2020-09-26T11:39:05 IST" duration-ms="22307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:activities.webapp@c333c60]" started-at="2020-09-26T11:39:05 IST" name="afterMethod" finished-at="2020-09-26T11:39:06 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:activities.webapp@c333c60]" started-at="2020-09-26T11:39:06 IST" name="beforeMethod" finished-at="2020-09-26T11:39:18 IST" duration-ms="12160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="todolist()[pri:0, instance:activities.webapp@c333c60]" started-at="2020-09-26T11:39:18 IST" name="todolist" finished-at="2020-09-26T11:39:44 IST" duration-ms="26356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- todolist -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:activities.webapp@c333c60]" started-at="2020-09-26T11:39:44 IST" name="afterMethod" finished-at="2020-09-26T11:39:45 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- activities.webapp -->
+      <class name="activities.googletask">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:activities.googletask@11bd0f3b]" started-at="2020-09-26T11:37:22 IST" name="beforeMethod" finished-at="2020-09-26T11:37:34 IST" duration-ms="11340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="taskadd()[pri:0, instance:activities.googletask@11bd0f3b]" started-at="2020-09-26T11:37:34 IST" name="taskadd" finished-at="2020-09-26T11:37:49 IST" duration-ms="15013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- taskadd -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:activities.googletask@11bd0f3b]" started-at="2020-09-26T11:37:49 IST" name="afterMethod" finished-at="2020-09-26T11:37:49 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- activities.googletask -->
+      <class name="activities.googlekeep">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:activities.googlekeep@69e1dd28]" started-at="2020-09-26T11:36:52 IST" name="beforeMethod" finished-at="2020-09-26T11:37:04 IST" duration-ms="11940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addnoteswithremainder()[pri:0, instance:activities.googlekeep@69e1dd28]" started-at="2020-09-26T11:37:04 IST" name="addnoteswithremainder" finished-at="2020-09-26T11:37:22 IST" duration-ms="18018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addnoteswithremainder -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:activities.googlekeep@69e1dd28]" started-at="2020-09-26T11:37:22 IST" name="afterMethod" finished-at="2020-09-26T11:37:22 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- activities.googlekeep -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
